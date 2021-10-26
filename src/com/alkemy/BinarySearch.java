@@ -24,7 +24,9 @@ public class BinarySearch {
             }
 
             else {
+
                 end = middle - 1;
+
             }
 
         }
